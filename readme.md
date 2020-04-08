@@ -1,4 +1,4 @@
-# Devcampers API v1.0
+# Devcampers API v1.0.0
 
 > Backend API for Devcampers application.
 
